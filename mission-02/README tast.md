@@ -1,6 +1,8 @@
 완성 사진1
 
-![web_standards 1)
+![web_standards 1](https://github.com/qwe11qwe/Home-work/assets/134567486/01c73f49-cd9c-4ccc-adc7-7cd625382e10)
+
+
 ---------------------html 코드 정리
 <!DOCTYPE html>
 <html lang="ko">
