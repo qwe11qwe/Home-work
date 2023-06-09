@@ -3,7 +3,7 @@
 ![web_standards 1](https://github.com/qwe11qwe/Home-work/assets/134567486/01c73f49-cd9c-4ccc-adc7-7cd625382e10)
 
 
-##html
+## html
 <!DOCTYPE html>
 <html lang="ko">
 <head>
