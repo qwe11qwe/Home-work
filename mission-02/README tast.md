@@ -4,8 +4,7 @@
 
 
 ## html
-<!DOCTYPE html>
-<html lang="ko">
+
 <head>
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -29,7 +28,10 @@
 </div>
   </body>
 
-</html>
+
+
+
+
 
 -----------------CSS 코드 정리
 body {
