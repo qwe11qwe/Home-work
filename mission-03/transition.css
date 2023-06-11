@@ -1,0 +1,40 @@
+.main-site {
+  background: linear-gradient(180deg, #CCCCCC 0%, #EEEEEE 100%);
+  padding: 20px;
+  border-radius: 10px;
+  width: 240px;
+}
+
+.site-list .site-list2 {
+  height: 400%;
+}
+
+.site-list {
+  color: black;
+}
+
+.site-list2 {
+  color: #ED552F;
+  left: 85px;
+}
+
+.no_dot {
+  list-style-type: none;
+  background-color: white;
+  line-height: 40px;
+  border-radius: 10px;
+  width: 200px;
+  height: 40px;
+  overflow: hidden;
+  }
+
+.no_dot a {  
+  color:black;
+}
+
+.no_dot:hover {
+  cursor:pointer;
+  height: 200px;
+  transition: all 300ms;
+  list-style:none;
+}
