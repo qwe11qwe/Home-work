@@ -1,7 +1,7 @@
 # 6.14 5차 과제
 
 ## 결과
-![png](./5ck.png)
+![5ck](https://github.com/qwe11qwe/Home-work/assets/134567486/7a2414ab-58f6-4bbe-950f-d80da46474fa)
 
 ### 코드 리뷰
 html
