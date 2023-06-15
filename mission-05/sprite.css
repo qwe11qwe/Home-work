@@ -1,0 +1,87 @@
+.head {
+  width: 230px;
+  padding: 12px;
+  box-sizing: border-box;
+  background: linear-gradient(180deg, #CCCCCC 0%, #CCCCCC 100%);
+  border-radius: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+span {
+  box-sizing: border-box;
+  
+}
+
+.Box {
+    display: inline-block;
+    text-align: center;
+    font-size: 1px;
+    width: 20px;
+    border-radius: 5px;
+    color:white;
+    background: #A3A3A3;
+}
+
+.more {
+  position: absolute;
+  font-style: normal;
+  right:100px;
+  top: 0px;
+  margin: 20px 12px 0 0;
+}
+
+.popular {
+    margin: 0;
+    font-size: 15px; 
+    line-height: 22.5px;
+}
+
+.site {
+  color: #ED552F;
+}
+
+.splite{
+  background: url(./img1111.png) no-repeat;
+}
+.spliteW3C1{
+  background-position: right 5px;
+}
+
+.spliteW3C2{
+  background-position: right -35px;
+}
+
+.spliteW3C3{
+  background-position: right -12px;
+}
+
+.spliteW3C4{
+  background-position: right 5px;
+}
+
+
+
+
+
+
+
+
+.sprite {
+  background: url(./imageng) no-repeat;
+}
+.spriteW3C {
+  background-position: right -5%;
+}
+.spriteWeb {
+  background-position: right 105%;
+}
+.spriteCSS {
+  background-position: right center;
+}
+.spriteMDN {
+  background-position: right -5%;
+}
